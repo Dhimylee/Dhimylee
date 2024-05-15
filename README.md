@@ -13,7 +13,7 @@ Desenvolvedora Front-End, estudante de Análise e Desenvolvimento de Sistemas na
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="30" height="30" /> Let's connect!
 <div>
   <a href="https://www.linkedin.com/in/dhimylee-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&color=9b87e5&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?&color=9b87e5&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:dhimylee.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=9b87e5&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Languages and Technologies
