@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9B87E5&random=false&width=435&lines=Hello%2C+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Desenvolvedora Front-End, formada em Análise e Desenvolvimento de Sistemas na Faculdade SENAC e Técnica em Informática pela Escola Técnica de Ceilândia - ETC. Apaixonada por desenvolvimento web, possuo experiência prática em HTML, CSS, Bootstrap, SASS, JavaScript, PHP, WordPress e Git. Meu foco principal está na criação de interfaces intuitivas e responsivas, garantindo uma melhor experiência para o usuário.
+Desenvolvedora Front-End, formada em Análise e Desenvolvimento de Sistemas na Faculdade SENAC e Técnica em Informática pela Escola Técnica de Ceilândia - ETC. Atualmente cursando pós-graduação em UX Design pelo SENAC. Apaixonada por desenvolvimento web, possuo experiência prática em HTML, CSS, Bootstrap, SASS, JavaScript, PHP, WordPress e Git. Meu foco principal está na criação de interfaces intuitivas e responsivas, garantindo uma melhor experiência para o usuário.
 
 <img align="right" alt="" height="300px" src="./Designer.jpeg">
 
