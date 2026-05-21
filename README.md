@@ -24,7 +24,7 @@ Desenvolvedora Front-End, formada em Análise e Desenvolvimento de Sistemas na F
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dhimylee&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dhimylee&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> -->
     <img height="150em" src="https://streak-stats.demolab.com/?user=Dhimylee&theme=nightowl"/>
 </div>
  <br>
